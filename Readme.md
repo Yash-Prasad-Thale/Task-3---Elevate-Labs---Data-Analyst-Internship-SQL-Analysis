@@ -9,4 +9,5 @@
 8. Total Profit per year
 9. average of profit by year
 
+# Tools Used:
 Used Google, and chatgpt for generatin the database and for the errors that looked absurd, and youtube for revising my basics.
